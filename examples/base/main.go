@@ -7,13 +7,13 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/pocketbase/pocketbase"
-	"github.com/pocketbase/pocketbase/apis"
-	"github.com/pocketbase/pocketbase/core"
-	"github.com/pocketbase/pocketbase/plugins/ghupdate"
-	"github.com/pocketbase/pocketbase/plugins/jsvm"
-	"github.com/pocketbase/pocketbase/plugins/migratecmd"
-	"github.com/pocketbase/pocketbase/tools/hook"
+	"github.com/JMSabanes07/pocketbase"
+	"github.com/JMSabanes07/pocketbase/apis"
+	"github.com/JMSabanes07/pocketbase/core"
+	"github.com/JMSabanes07/pocketbase/plugins/ghupdate"
+	"github.com/JMSabanes07/pocketbase/plugins/jsvm"
+	"github.com/JMSabanes07/pocketbase/plugins/migratecmd"
+	"github.com/JMSabanes07/pocketbase/tools/hook"
 )
 
 func main() {
